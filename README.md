@@ -7,10 +7,19 @@ explorando conceptos como la complejidad temporal y espacial a través de la com
 
 ---
 
+## Alumnas:
+Giselle Chaumont Mohr 
+Daiana Ghisio 
+
+## Materia: Programación I 
+
+---
+
+
 ## Links importantes
 - [Presentación completa](https://www.canva.com/design/DAGpzNIN9kw/Hi_Bu2Lj6mKubDnLleG93A/view?utm_content=DAGpzNIN9kw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7912061800)
 - 
-- [Video completo]()
+- [Video completo](https://youtu.be/Z1uCNgTEqL8)
 
 
 
@@ -38,7 +47,7 @@ Asegúrate de tener instalado **Python** en tu sistema (versión 3.x recomendada
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/daianaghisio/TP-Programacion-I.git](https://github.com/daianaghisio/TP-Programacion-I.git)
+    git clone https://github.com/daianaghisio/TP-Programacion-I.git
     ```
 2.  **Acceder al directorio del proyecto:**
     ```bash
