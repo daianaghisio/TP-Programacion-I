@@ -8,8 +8,8 @@ explorando conceptos como la complejidad temporal y espacial a través de la com
 ---
 
 ## Alumnas:
-Giselle Chaumont Mohr 
-Daiana Ghisio 
+- Giselle Chaumont Mohr 
+- Daiana Ghisio 
 
 ## Materia: Programación I 
 
