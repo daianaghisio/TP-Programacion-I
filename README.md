@@ -18,7 +18,7 @@ explorando conceptos como la complejidad temporal y espacial a través de la com
 
 ## Links importantes
 - [Presentación completa](https://www.canva.com/design/DAGpzNIN9kw/Hi_Bu2Lj6mKubDnLleG93A/view?utm_content=DAGpzNIN9kw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7912061800)
-- 
+  
 - [Video completo](https://youtu.be/Z1uCNgTEqL8)
 
 
